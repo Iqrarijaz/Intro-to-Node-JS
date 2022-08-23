@@ -1,0 +1,14 @@
+{
+  "name": "iqrar",
+  "version": "1.0.0",
+  "description": "this is hello world project",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "malik",
+  "license": "ISC",
+  "dependencies": {
+    "express": "^4.18.1"
+  }
+}
